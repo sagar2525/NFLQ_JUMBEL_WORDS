@@ -1,602 +1,656 @@
 [
   {
-    "original": "Hedgefund",
-    "jumbled": "eghuednfd",
-    "jumbled_spaced": "E G H U E D N F D",
-    "clue": "Pooled alternative investment fund"
-  },
-  {
-    "original": "Collateral",
-    "jumbled": "tllalocaer",
-    "jumbled_spaced": "T L L A L O C A E R",
-    "clue": "Asset pledged to secure a loan"
-  },
-  {
-    "original": "Rupee",
-    "jumbled": "peuer",
-    "jumbled_spaced": "P E U E R",
-    "clue": "Indian currency unit"
-  },
-  {
-    "original": "Execution",
-    "jumbled": "oxcuitene",
-    "jumbled_spaced": "O X C U I T E N E",
-    "clue": "Order fulfillment process"
-  },
-  {
-    "original": "Profit",
-    "jumbled": "oifprt",
-    "jumbled_spaced": "O I F P R T",
-    "clue": "Financial gain after costs"
-  },
-  {
-    "original": "Tariff",
-    "jumbled": "ftifar",
-    "jumbled_spaced": "F T I F A R",
-    "clue": "Tax on imports or exports"
-  },
-  {
-    "original": "Investor",
-    "jumbled": "snovteir",
-    "jumbled_spaced": "S N O V T E I R",
-    "clue": "Person who allocates capital"
-  },
-  {
-    "original": "Fund",
-    "jumbled": "nufd",
-    "jumbled_spaced": "N U F D",
-    "clue": "Pooled investment vehicle"
-  },
-  {
-    "original": "Wallet",
-    "jumbled": "eltalw",
-    "jumbled_spaced": "E L T A L W",
-    "clue": "Digital holder of money/assets"
-  },
-  {
-    "original": "Bonus",
-    "jumbled": "ousbn",
-    "jumbled_spaced": "O U S B N",
-    "clue": "Extra pay or additional shares"
-  },
-  {
-    "original": "Tax",
-    "jumbled": "axt",
-    "jumbled_spaced": "A X T",
-    "clue": "Compulsory levy by government"
-  },
-  {
-    "original": "Clearing",
-    "jumbled": "lancergi",
-    "jumbled_spaced": "L A N C E R G I",
-    "clue": "Post-trade matching and netting"
-  },
-  {
-    "original": "Arbitrage",
-    "jumbled": "raetgiarb",
-    "jumbled_spaced": "R A E T G I A R B",
-    "clue": "Profit from price differences"
-  },
-  {
-    "original": "Liquidity",
-    "jumbled": "dqitliiyu",
-    "jumbled_spaced": "D Q I T L I I Y U",
-    "clue": "Ease of buying/selling quickly"
-  },
-  {
-    "original": "Trust",
-    "jumbled": "rstut",
-    "jumbled_spaced": "R S T U T",
-    "clue": "Fiduciary legal arrangement"
-  },
-  {
-    "original": "Trader",
-    "jumbled": "aretdr",
-    "jumbled_spaced": "A R E T D R",
-    "clue": "Buys and sells securities"
-  },
-  {
-    "original": "Repo",
-    "jumbled": "epor",
-    "jumbled_spaced": "E P O R",
-    "clue": "Short-term repurchase agreement"
-  },
-  {
-    "original": "Underwrite",
-    "jumbled": "rtewrdnuie",
-    "jumbled_spaced": "R T E W R D N U I E",
-    "clue": "Guarantee issue or assume risk"
-  },
-  {
-    "original": "Bitcoin",
-    "jumbled": "iiontcb",
-    "jumbled_spaced": "I I O N T C B",
-    "clue": "Decentralized cryptocurrency"
-  },
-  {
-    "original": "Capital",
-    "jumbled": "tlaicap",
-    "jumbled_spaced": "T L A I C A P",
-    "clue": "Financial assets for investment"
-  },
-  {
-    "original": "Leverage",
-    "jumbled": "ereveagl",
-    "jumbled_spaced": "E R E V E A G L",
-    "clue": "Using borrowed money to invest"
-  },
-  {
-    "original": "Yield",
-    "jumbled": "lyide",
-    "jumbled_spaced": "L Y I D E",
-    "clue": "Income return on an investment"
-  },
-  {
-    "original": "Euro",
-    "jumbled": "reou",
-    "jumbled_spaced": "R E O U",
-    "clue": "Currency of the eurozone"
-  },
-  {
-    "original": "Stoploss",
-    "jumbled": "pslossot",
-    "jumbled_spaced": "P S L O S S O T",
-    "clue": "Pre-set exit price to limit loss"
-  },
-  {
-    "original": "Balance",
-    "jumbled": "acbneal",
-    "jumbled_spaced": "A C B N E A L",
-    "clue": "Net amount remaining"
-  },
-  {
-    "original": "Option",
-    "jumbled": "inoopt",
-    "jumbled_spaced": "I N O O P T",
-    "clue": "Right, not obligation, to trade"
-  },
-  {
-    "original": "Ledger",
-    "jumbled": "rgedel",
-    "jumbled_spaced": "R G E D E L",
-    "clue": "Record of financial transactions"
-  },
-  {
-    "original": "Demat",
-    "jumbled": "maedt",
-    "jumbled_spaced": "M A E D T",
-    "clue": "Dematerialized securities account"
-  },
-  {
-    "original": "Risk",
-    "jumbled": "sirk",
-    "jumbled_spaced": "S I R K",
-    "clue": "Chance of financial loss"
-  },
-  {
-    "original": "Hedge",
-    "jumbled": "dehge",
-    "jumbled_spaced": "D E H G E",
-    "clue": "Position to offset risk"
-  },
-  {
-    "original": "Solvency",
-    "jumbled": "oylnvsce",
-    "jumbled_spaced": "O Y L N V S C E",
-    "clue": "Ability to meet long-term debts"
-  },
-  {
-    "original": "Mortgage",
-    "jumbled": "atgmoerg",
-    "jumbled_spaced": "A T G M O E R G",
-    "clue": "Loan secured by property"
-  },
-  {
-    "original": "Payout",
-    "jumbled": "oaptyu",
-    "jumbled_spaced": "O A P T Y U",
-    "clue": "Distribution of cash or shares"
-  },
-  {
-    "original": "Volatility",
-    "jumbled": "ltyivoitla",
-    "jumbled_spaced": "L T Y I V O I T L A",
-    "clue": "Degree of price fluctuation"
-  },
-  {
-    "original": "Revenue",
-    "jumbled": "veeurne",
-    "jumbled_spaced": "V E E U R N E",
-    "clue": "Income from operations"
-  },
-  {
-    "original": "Budget",
-    "jumbled": "tugdbe",
-    "jumbled_spaced": "T U G D B E",
-    "clue": "Planned income and expenses"
-  },
-  {
-    "original": "Order",
-    "jumbled": "rodre",
-    "jumbled_spaced": "R O D R E",
-    "clue": "Instruction to buy or sell"
-  },
-  {
-    "original": "Spread",
-    "jumbled": "edpsra",
-    "jumbled_spaced": "E D P S R A",
-    "clue": "Bid-ask gap or price difference"
-  },
-  {
-    "original": "Pension",
-    "jumbled": "opninse",
-    "jumbled_spaced": "O P N I N S E",
-    "clue": "Retirement income arrangement"
-  },
-  {
-    "original": "Insurance",
-    "jumbled": "aesuncirn",
-    "jumbled_spaced": "A E S U N C I R N",
-    "clue": "Contract to transfer risk"
-  },
-  {
-    "original": "Yen",
-    "jumbled": "eny",
-    "jumbled_spaced": "E N Y",
-    "clue": "Japanese currency unit"
-  },
-  {
-    "original": "Mutual",
-    "jumbled": "taumlu",
-    "jumbled_spaced": "T A U M L U",
-    "clue": "As in mutual fund; pooled"
-  },
-  {
-    "original": "Loss",
-    "jumbled": "slso",
-    "jumbled_spaced": "S L S O",
-    "clue": "Negative financial result"
-  },
-  {
-    "original": "Buyback",
-    "jumbled": "yuabckb",
-    "jumbled_spaced": "Y U A B C K B",
-    "clue": "Company repurchases its shares"
-  },
-  {
-    "original": "Benchmark",
-    "jumbled": "ekrbncham",
-    "jumbled_spaced": "E K R B N C H A M",
-    "clue": "Standard for performance comparison"
-  },
-  {
-    "original": "Alpha",
-    "jumbled": "lhapa",
-    "jumbled_spaced": "L H A P A",
-    "clue": "Excess return over benchmark"
-  },
-  {
-    "original": "Dollar",
-    "jumbled": "oadllr",
-    "jumbled_spaced": "O A D L L R",
-    "clue": "US currency unit (also others)"
+    "original": "Credit",
+    "jumbled": "irecdt",
+    "jumbled_spaced": "I R E C D T",
+    "clue": "A loan provided by one party to another"
   },
   {
     "original": "Portfolio",
-    "jumbled": "ooiprlfto",
-    "jumbled_spaced": "O O I P R L F T O",
-    "clue": "Collection of investments"
+    "jumbled": "oiporotlf",
+    "jumbled_spaced": "O I P O R O T L F",
+    "clue": "A collection of financial investments"
   },
   {
-    "original": "Limit",
-    "jumbled": "ilmti",
-    "jumbled_spaced": "I L M T I",
-    "clue": "Order with max/min price"
+    "original": "Leverage",
+    "jumbled": "vreeegla",
+    "jumbled_spaced": "V R E E E G L A",
+    "clue": "Using borrowed capital for an investment"
   },
   {
-    "original": "Short",
-    "jumbled": "hrsot",
-    "jumbled_spaced": "H R S O T",
-    "clue": "Betting on a price decline"
-  },
-  {
-    "original": "Loan",
-    "jumbled": "olan",
-    "jumbled_spaced": "O L A N",
-    "clue": "Borrowed sum to be repaid"
-  },
-  {
-    "original": "Settlement",
-    "jumbled": "enmeelttst",
-    "jumbled_spaced": "E N M E E L T T S T",
-    "clue": "Final transfer of cash/securities"
-  },
-  {
-    "original": "Annuity",
-    "jumbled": "tuyanni",
-    "jumbled_spaced": "T U Y A N N I",
-    "clue": "Stream of scheduled payments"
-  },
-  {
-    "original": "Currency",
-    "jumbled": "ecnrcury",
-    "jumbled_spaced": "E C N R C U R Y",
-    "clue": "System of money in use"
-  },
-  {
-    "original": "Riskfree",
-    "jumbled": "krirsfee",
-    "jumbled_spaced": "K R I R S F E E",
-    "clue": "Theoretical zero-risk return"
-  },
-  {
-    "original": "Index",
-    "jumbled": "exnid",
-    "jumbled_spaced": "E X N I D",
-    "clue": "Basket tracking performance"
-  },
-  {
-    "original": "Rights",
-    "jumbled": "ithgrs",
-    "jumbled_spaced": "I T H G R S",
-    "clue": "Entitlement to buy new shares"
-  },
-  {
-    "original": "Deflation",
-    "jumbled": "nfietolad",
-    "jumbled_spaced": "N F I E T O L A D",
-    "clue": "General fall in price levels"
-  },
-  {
-    "original": "Beta",
-    "jumbled": "tabe",
-    "jumbled_spaced": "T A B E",
-    "clue": "Sensitivity to market moves"
-  },
-  {
-    "original": "Default",
-    "jumbled": "aluetdf",
-    "jumbled_spaced": "A L U E T D F",
-    "clue": "Failure to meet debt obligations"
-  },
-  {
-    "original": "Boom",
-    "jumbled": "obmo",
-    "jumbled_spaced": "O B M O",
-    "clue": "Period of rapid expansion"
-  },
-  {
-    "original": "Exchange",
-    "jumbled": "gaxehnce",
-    "jumbled_spaced": "G A X E H N C E",
-    "clue": "Marketplace for securities"
-  },
-  {
-    "original": "Stock",
-    "jumbled": "ckots",
-    "jumbled_spaced": "C K O T S",
-    "clue": "Equity share in a company"
-  },
-  {
-    "original": "Premium",
-    "jumbled": "umeipmr",
-    "jumbled_spaced": "U M E I P M R",
-    "clue": "Price above par; insurance fee"
-  },
-  {
-    "original": "Expense",
-    "jumbled": "pxeenes",
-    "jumbled_spaced": "P X E E N E S",
-    "clue": "Cost incurred in operations"
-  },
-  {
-    "original": "Dividend",
-    "jumbled": "vdeididn",
-    "jumbled_spaced": "V D E I D I D N",
-    "clue": "Distribution of profits to holders"
-  },
-  {
-    "original": "Forex",
-    "jumbled": "oxfre",
-    "jumbled_spaced": "O X F R E",
-    "clue": "Foreign exchange market"
-  },
-  {
-    "original": "Recession",
-    "jumbled": "isoeensrc",
-    "jumbled_spaced": "I S O E E N S R C",
-    "clue": "Broad economic downturn"
-  },
-  {
-    "original": "Bond",
-    "jumbled": "nbod",
-    "jumbled_spaced": "N B O D",
-    "clue": "Debt security with coupons/maturity"
-  },
-  {
-    "original": "Analyst",
-    "jumbled": "yslanat",
-    "jumbled_spaced": "Y S L A N A T",
-    "clue": "Researches and values securities"
-  },
-  {
-    "original": "Credit",
-    "jumbled": "ectird",
-    "jumbled_spaced": "E C T I R D",
-    "clue": "Ability to borrow; trust to pay"
-  },
-  {
-    "original": "Debt",
-    "jumbled": "etbd",
-    "jumbled_spaced": "E T B D",
-    "clue": "Money owed to a lender"
-  },
-  {
-    "original": "Bust",
-    "jumbled": "sbtu",
-    "jumbled_spaced": "S B T U",
-    "clue": "Sharp collapse or downturn"
-  },
-  {
-    "original": "Option",
-    "jumbled": "tnopoi",
-    "jumbled_spaced": "T N O P O I",
-    "clue": "Derivative right to buy/sell"
-  },
-  {
-    "original": "Buyback",
-    "jumbled": "abuybkc",
-    "jumbled_spaced": "A B U Y B K C",
-    "clue": "Repurchase of company shares"
-  },
-  {
-    "original": "Derivative",
-    "jumbled": "irtdvveeai",
-    "jumbled_spaced": "I R T D V V E E A I",
-    "clue": "Contract derived from an underlying"
-  },
-  {
-    "original": "IPO",
-    "jumbled": "poi",
-    "jumbled_spaced": "P O I",
-    "clue": "Initial public offering"
-  },
-  {
-    "original": "Duty",
-    "jumbled": "ydtu",
-    "jumbled_spaced": "Y D T U",
-    "clue": "Tax imposed on goods"
-  },
-  {
-    "original": "Asset",
-    "jumbled": "setas",
-    "jumbled_spaced": "S E T A S",
-    "clue": "Resource with economic value"
-  },
-  {
-    "original": "Deposit",
-    "jumbled": "edtisop",
-    "jumbled_spaced": "E D T I S O P",
-    "clue": "Money placed into an account"
-  },
-  {
-    "original": "Withdrawal",
-    "jumbled": "halwwrdait",
-    "jumbled_spaced": "H A L W W R D A I T",
-    "clue": "Taking money out of an account"
-  },
-  {
-    "original": "Valuation",
-    "jumbled": "tiouanvla",
-    "jumbled_spaced": "T I O U A N V L A",
-    "clue": "Estimating asset or firm value"
-  },
-  {
-    "original": "Risk",
-    "jumbled": "iksr",
-    "jumbled_spaced": "I K S R",
-    "clue": "Probability of adverse outcome"
-  },
-  {
-    "original": "Interchange",
-    "jumbled": "nhregteacin",
-    "jumbled_spaced": "N H R E G T E A C I N",
-    "clue": "Card-network fee between banks"
-  },
-  {
-    "original": "Expense",
-    "jumbled": "xpsenee",
-    "jumbled_spaced": "X P S E N E E",
-    "clue": "Operational cost or outlay"
-  },
-  {
-    "original": "Yield",
-    "jumbled": "leiyd",
-    "jumbled_spaced": "L E I Y D",
-    "clue": "Income as a percentage"
-  },
-  {
-    "original": "Currency",
-    "jumbled": "ncecryur",
-    "jumbled_spaced": "N C E C R Y U R",
-    "clue": "Medium of exchange in a country"
-  },
-  {
-    "original": "Fund",
-    "jumbled": "dnfu",
-    "jumbled_spaced": "D N F U",
-    "clue": "Pool of investor money"
-  },
-  {
-    "original": "Krasi",
-    "jumbled": "rksai",
-    "jumbled_spaced": "R K S A I",
-    "clue": "Placeholder term for practice"
-  },
-  {
-    "original": "Bonus",
-    "jumbled": "snbou",
-    "jumbled_spaced": "S N B O U",
-    "clue": "Extra compensation or reward"
-  },
-  {
-    "original": "Duty",
-    "jumbled": "tydu",
-    "jumbled_spaced": "T Y D U",
-    "clue": "Levy charged on goods/services"
-  },
-  {
-    "original": "Clearing",
-    "jumbled": "nalirecg",
-    "jumbled_spaced": "N A L I R E C G",
-    "clue": "Post-trade reconciliation step"
-  },
-  {
-    "original": "Analyst",
-    "jumbled": "lantasy",
-    "jumbled_spaced": "L A N T A S Y",
-    "clue": "Professional evaluating companies"
+    "original": "Amortize",
+    "jumbled": "rtmeoaiz",
+    "jumbled_spaced": "R T M E O A I Z",
+    "clue": "To pay off a debt over time in installments"
   },
   {
     "original": "Liquidity",
-    "jumbled": "yqidluiit",
-    "jumbled_spaced": "Y Q I D L U I I T",
-    "clue": "Convertibility to cash quickly"
+    "jumbled": "uidqytiil",
+    "jumbled_spaced": "U I D Q Y T I I L",
+    "clue": "The ease with which an asset can be converted into cash"
   },
   {
-    "original": "Rights",
-    "jumbled": "tgrish",
-    "jumbled_spaced": "T G R I S H",
-    "clue": "Shareholder entitlement to subscribe"
+    "original": "Collateral",
+    "jumbled": "aocetllalr",
+    "jumbled_spaced": "A O C E T L L A L R",
+    "clue": "Something pledged as security for repayment of a loan"
   },
   {
-    "original": "Premium",
-    "jumbled": "merpuim",
-    "jumbled_spaced": "M E R P U I M",
-    "clue": "Extra amount above base value"
+    "original": "Inflation",
+    "jumbled": "toiianfln",
+    "jumbled_spaced": "T O I I A N F L N",
+    "clue": "The rate at which the general level of prices for goods and services is rising"
+  },
+  {
+    "original": "Recession",
+    "jumbled": "seeriscno",
+    "jumbled_spaced": "S E E R I S C N O",
+    "clue": "A period of temporary economic decline"
+  },
+  {
+    "original": "Asset",
+    "jumbled": "stsae",
+    "jumbled_spaced": "S T S A E",
+    "clue": "A resource with economic value"
+  },
+  {
+    "original": "Liability",
+    "jumbled": "alltiibyi",
+    "jumbled_spaced": "A L L T I I B Y I",
+    "clue": "A company's financial debt or obligation"
+  },
+  {
+    "original": "Equity",
+    "jumbled": "eyuqti",
+    "jumbled_spaced": "E Y U Q T I",
+    "clue": "Ownership interest in a company"
+  },
+  {
+    "original": "Dividend",
+    "jumbled": "ivnidedd",
+    "jumbled_spaced": "I V N I D E D D",
+    "clue": "A portion of company profits distributed to shareholders"
   },
   {
     "original": "Bond",
-    "jumbled": "nbod",
-    "jumbled_spaced": "N B O D",
-    "clue": "Fixed-income debt instrument"
+    "jumbled": "bdno",
+    "jumbled_spaced": "B D N O",
+    "clue": "A fixed-income instrument representing a loan made by an investor to a borrower"
+  },
+  {
+    "original": "Yield",
+    "jumbled": "ieydl",
+    "jumbled_spaced": "I E Y D L",
+    "clue": "Income return on an investment"
+  },
+  {
+    "original": "Hedging",
+    "jumbled": "iegdngh",
+    "jumbled_spaced": "I E G D N G H",
+    "clue": "Reducing risk of adverse price movements"
+  },
+  {
+    "original": "Derivative",
+    "jumbled": "rvtavediie",
+    "jumbled_spaced": "R V T A V E D I I E",
+    "clue": "A financial contract whose value depends on an underlying asset"
+  },
+  {
+    "original": "Futures",
+    "jumbled": "strfueu",
+    "jumbled_spaced": "S T R F U E U",
+    "clue": "Contracts to buy or sell assets at a predetermined future date and price"
+  },
+  {
+    "original": "Options",
+    "jumbled": "oopsnti",
+    "jumbled_spaced": "O O P S N T I",
+    "clue": "Contracts that give the right, but not obligation, to buy or sell an asset"
+  },
+  {
+    "original": "IPO",
+    "jumbled": "oip",
+    "jumbled_spaced": "O I P",
+    "clue": "Initial Public Offering of company shares"
+  },
+  {
+    "original": "Index",
+    "jumbled": "exdni",
+    "jumbled_spaced": "E X D N I",
+    "clue": "A statistical measure of changes in a portfolio of stocks"
+  },
+  {
+    "original": "Capital",
+    "jumbled": "ptalaci",
+    "jumbled_spaced": "P T A L A C I",
+    "clue": "Financial assets or the financial value of assets"
+  },
+  {
+    "original": "Forex",
+    "jumbled": "fxroe",
+    "jumbled_spaced": "F X R O E",
+    "clue": "The global marketplace for exchanging national currencies"
+  },
+  {
+    "original": "Blockchain",
+    "jumbled": "iobckclhna",
+    "jumbled_spaced": "I O B C K C L H N A",
+    "clue": "A digital ledger technology used in cryptocurrencies"
+  },
+  {
+    "original": "Bitcoin",
+    "jumbled": "cntbioi",
+    "jumbled_spaced": "C N T B I O I",
+    "clue": "The first and most widely recognized cryptocurrency"
+  },
+  {
+    "original": "Altcoin",
+    "jumbled": "lcatoin",
+    "jumbled_spaced": "L C A T O I N",
+    "clue": "Any cryptocurrency other than Bitcoin"
+  },
+  {
+    "original": "Mining",
+    "jumbled": "imnign",
+    "jumbled_spaced": "I M N I G N",
+    "clue": "The process of validating blockchain transactions and creating new coins"
+  },
+  {
+    "original": "Staking",
+    "jumbled": "tikagsn",
+    "jumbled_spaced": "T I K A G S N",
+    "clue": "Locking cryptocurrency to support network operations and earn rewards"
+  },
+  {
+    "original": "Wallet",
+    "jumbled": "atwell",
+    "jumbled_spaced": "A T W E L L",
+    "clue": "A digital tool for storing and managing cryptocurrencies"
+  },
+  {
+    "original": "Exchange",
+    "jumbled": "xgeenhac",
+    "jumbled_spaced": "X G E E N H A C",
+    "clue": "A marketplace for trading financial instruments or cryptocurrencies"
+  },
+  {
+    "original": "Margin",
+    "jumbled": "gmrina",
+    "jumbled_spaced": "G M R I N A",
+    "clue": "Borrowed funds from a broker to trade"
+  },
+  {
+    "original": "Stoploss",
+    "jumbled": "opsltsso",
+    "jumbled_spaced": "O P S L T S S O",
+    "clue": "An order to sell an asset when it reaches a certain price to limit losses"
+  },
+  {
+    "original": "LimitOrder",
+    "jumbled": "ieimrortld",
+    "jumbled_spaced": "I E I M R O R T L D",
+    "clue": "An order to buy or sell at a specified price or better"
+  },
+  {
+    "original": "MarketOrder",
+    "jumbled": "rroetkdmera",
+    "jumbled_spaced": "R R O E T K D M E R A",
+    "clue": "An order to buy or sell immediately at current prices"
+  },
+  {
+    "original": "Spread",
+    "jumbled": "sdaerp",
+    "jumbled_spaced": "S D A E R P",
+    "clue": "The difference between bid and ask prices"
+  },
+  {
+    "original": "Arbitrage",
+    "jumbled": "itbrgaaer",
+    "jumbled_spaced": "I T B R G A A E R",
+    "clue": "Buying and selling to profit from price differences"
+  },
+  {
+    "original": "Risk",
+    "jumbled": "rksi",
+    "jumbled_spaced": "R K S I",
+    "clue": "The possibility of losing money on an investment"
+  },
+  {
+    "original": "Return",
+    "jumbled": "tenrur",
+    "jumbled_spaced": "T E N R U R",
+    "clue": "The gain or loss from an investment"
+  },
+  {
+    "original": "Deflation",
+    "jumbled": "iandtfole",
+    "jumbled_spaced": "I A N D T F O L E",
+    "clue": "A decrease in the general price level of goods and services"
+  },
+  {
+    "original": "Treasury",
+    "jumbled": "atysreru",
+    "jumbled_spaced": "A T Y S R E R U",
+    "clue": "Government-issued debt securities"
+  },
+  {
+    "original": "MutualFund",
+    "jumbled": "manutduufl",
+    "jumbled_spaced": "M A N U T D U U F L",
+    "clue": "An investment vehicle pooling money from many investors"
+  },
+  {
+    "original": "ETF",
+    "jumbled": "tfe",
+    "jumbled_spaced": "T F E",
+    "clue": "Exchange Traded Fund, a type of investment fund traded on stock exchanges"
+  },
+  {
+    "original": "Commodity",
+    "jumbled": "mymdoctio",
+    "jumbled_spaced": "M Y M D O C T I O",
+    "clue": "A basic good used in commerce that is interchangeable with others"
+  },
+  {
+    "original": "Gold",
+    "jumbled": "olgd",
+    "jumbled_spaced": "O L G D",
+    "clue": "A precious metal often used as a safe-haven investment"
+  },
+  {
+    "original": "Silver",
+    "jumbled": "evsilr",
+    "jumbled_spaced": "E V S I L R",
+    "clue": "A precious metal with industrial and investment uses"
+  },
+  {
+    "original": "RealEstate",
+    "jumbled": "leseearatt",
+    "jumbled_spaced": "L E S E E A R A T T",
+    "clue": "Property consisting of land or buildings"
+  },
+  {
+    "original": "REIT",
+    "jumbled": "trei",
+    "jumbled_spaced": "T R E I",
+    "clue": "Real Estate Investment Trust"
+  },
+  {
+    "original": "Pension",
+    "jumbled": "npoensi",
+    "jumbled_spaced": "N P O E N S I",
+    "clue": "A retirement plan that provides regular income"
   },
   {
     "original": "Annuity",
-    "jumbled": "intuyna",
-    "jumbled_spaced": "I N T U Y N A",
-    "clue": "Contract paying periodic income"
+    "jumbled": "uniaynt",
+    "jumbled_spaced": "U N I A Y N T",
+    "clue": "A financial product paying out a fixed stream of payments"
   },
   {
-    "original": "Predict",
-    "jumbled": "dcirtpe",
-    "jumbled_spaced": "D C I R T P E",
-    "clue": "Estimate a future outcome"
+    "original": "Underwrite",
+    "jumbled": "nuertdriew",
+    "jumbled_spaced": "N U E R T D R I E W",
+    "clue": "To guarantee the sale of a security issue"
   },
   {
-    "original": "Budget",
-    "jumbled": "gutbde",
-    "jumbled_spaced": "G U T B D E",
-    "clue": "Spending plan over a period"
+    "original": "Broker",
+    "jumbled": "oberkr",
+    "jumbled_spaced": "O B E R K R",
+    "clue": "An individual or firm that executes trades for clients"
+  },
+  {
+    "original": "Trader",
+    "jumbled": "aertrd",
+    "jumbled_spaced": "A E R T R D",
+    "clue": "A person who buys and sells financial instruments"
+  },
+  {
+    "original": "BullMarket",
+    "jumbled": "eblurakltm",
+    "jumbled_spaced": "E B L U R A K L T M",
+    "clue": "A market characterized by rising prices"
+  },
+  {
+    "original": "BearMarket",
+    "jumbled": "aetamebrrk",
+    "jumbled_spaced": "A E T A M E B R R K",
+    "clue": "A market characterized by falling prices"
+  },
+  {
+    "original": "Volatility",
+    "jumbled": "tiyvlltioa",
+    "jumbled_spaced": "T I Y V L L T I O A",
+    "clue": "The degree of variation in trading prices over time"
+  },
+  {
+    "original": "Diversification",
+    "jumbled": "sictidfvirnoeia",
+    "jumbled_spaced": "S I C T I D F V I R N O E I A",
+    "clue": "Spreading investments to reduce risk"
+  },
+  {
+    "original": "Debt",
+    "jumbled": "dtbe",
+    "jumbled_spaced": "D T B E",
+    "clue": "Money borrowed that is to be paid back with interest"
+  },
+  {
+    "original": "CreditRating",
+    "jumbled": "ctirrednitga",
+    "jumbled_spaced": "C T I R R E D N I T G A",
+    "clue": "An evaluation of credit risk"
+  },
+  {
+    "original": "Default",
+    "jumbled": "edlftua",
+    "jumbled_spaced": "E D L F T U A",
+    "clue": "Failure to meet debt obligations"
+  },
+  {
+    "original": "Securities",
+    "jumbled": "tsreicusei",
+    "jumbled_spaced": "T S R E I C U S E I",
+    "clue": "Tradable financial assets"
+  },
+  {
+    "original": "Stock",
+    "jumbled": "tckso",
+    "jumbled_spaced": "T C K S O",
+    "clue": "A type of security signifying ownership in a corporation"
+  },
+  {
+    "original": "Share",
+    "jumbled": "haser",
+    "jumbled_spaced": "H A S E R",
+    "clue": "A single unit of ownership in a company"
+  },
+  {
+    "original": "Buyback",
+    "jumbled": "cbkbyau",
+    "jumbled_spaced": "C B K B Y A U",
+    "clue": "A company repurchasing its own shares"
+  },
+  {
+    "original": "Merger",
+    "jumbled": "emgrre",
+    "jumbled_spaced": "E M G R R E",
+    "clue": "Two companies combining into one"
+  },
+  {
+    "original": "Acquisition",
+    "jumbled": "iiitsanocuq",
+    "jumbled_spaced": "I I I T S A N O C U Q",
+    "clue": "One company purchasing another"
+  },
+  {
+    "original": "Valuation",
+    "jumbled": "aloniutva",
+    "jumbled_spaced": "A L O N I U T V A",
+    "clue": "The estimated worth of an asset or company"
+  },
+  {
+    "original": "DiscountRate",
+    "jumbled": "urtonicdstea",
+    "jumbled_spaced": "U R T O N I C D S T E A",
+    "clue": "The interest rate used to discount future cash flows"
+  },
+  {
+    "original": "PresentValue",
+    "jumbled": "apnrtelsveeu",
+    "jumbled_spaced": "A P N R T E L S V E E U",
+    "clue": "The current value of future cash flows"
+  },
+  {
+    "original": "FutureValue",
+    "jumbled": "aeelvturuuf",
+    "jumbled_spaced": "A E E L V T U R U U F",
+    "clue": "The value of an asset at a specified date in the future"
+  },
+  {
+    "original": "CashFlow",
+    "jumbled": "facowhls",
+    "jumbled_spaced": "F A C O W H L S",
+    "clue": "The net amount of cash being transferred in and out of a business"
+  },
+  {
+    "original": "EBITDA",
+    "jumbled": "batedi",
+    "jumbled_spaced": "B A T E D I",
+    "clue": "Earnings before interest, taxes, depreciation, and amortization"
+  },
+  {
+    "original": "NetIncome",
+    "jumbled": "ieenmcotn",
+    "jumbled_spaced": "I E E N M C O T N",
+    "clue": "A company's total earnings after expenses"
+  },
+  {
+    "original": "GrossMargin",
+    "jumbled": "irsmagognsr",
+    "jumbled_spaced": "I R S M A G O G N S R",
+    "clue": "Sales revenue minus cost of goods sold"
+  },
+  {
+    "original": "OperatingMargin",
+    "jumbled": "gnmigrparaoniet",
+    "jumbled_spaced": "G N M I G R P A R A O N I E T",
+    "clue": "Operating income divided by net sales"
+  },
+  {
+    "original": "ReturnOnEquity",
+    "jumbled": "rterouneqyitnu",
+    "jumbled_spaced": "R T E R O U N E Q Y I T N U",
+    "clue": "A measure of financial performance based on net income and equity"
+  },
+  {
+    "original": "ReturnOnAssets",
+    "jumbled": "ourasnnesestrt",
+    "jumbled_spaced": "O U R A S N N E S E S T R T",
+    "clue": "A measure of financial performance based on net income and assets"
+  },
+  {
+    "original": "PriceEarningsRatio",
+    "jumbled": "sarnpierrnectgiiao",
+    "jumbled_spaced": "S A R N P I E R R N E C T G I I A O",
+    "clue": "A valuation ratio of a company's current share price to its per-share earnings"
+  },
+  {
+    "original": "MarketCap",
+    "jumbled": "krcaptmea",
+    "jumbled_spaced": "K R C A P T M E A",
+    "clue": "The total value of a company's outstanding shares"
+  },
+  {
+    "original": "LiquidityRatio",
+    "jumbled": "tuaioidtyriqil",
+    "jumbled_spaced": "T U A I O I D T Y R I Q I L",
+    "clue": "A measure of a company's ability to pay short-term obligations"
+  },
+  {
+    "original": "CurrentRatio",
+    "jumbled": "oentcauitrrr",
+    "jumbled_spaced": "O E N T C A U I T R R R",
+    "clue": "Current assets divided by current liabilities"
+  },
+  {
+    "original": "QuickRatio",
+    "jumbled": "iqauikrotc",
+    "jumbled_spaced": "I Q A U I K R O T C",
+    "clue": "Quick assets divided by current liabilities"
+  },
+  {
+    "original": "DebtToEquity",
+    "jumbled": "ytubieodtteq",
+    "jumbled_spaced": "Y T U B I E O D T T E Q",
+    "clue": "A measure of a company's financial leverage"
+  },
+  {
+    "original": "InterestCoverage",
+    "jumbled": "tcrgtnieasreevoe",
+    "jumbled_spaced": "T C R G T N I E A S R E E V O E",
+    "clue": "A ratio measuring ability to pay interest"
+  },
+  {
+    "original": "HedgeFund",
+    "jumbled": "eegddfnhu",
+    "jumbled_spaced": "E E G D D F N H U",
+    "clue": "A pooled investment fund using alternative strategies"
+  },
+  {
+    "original": "VentureCapital",
+    "jumbled": "ilapctutneerav",
+    "jumbled_spaced": "I L A P C T U T N E E R A V",
+    "clue": "Financing provided to startups with growth potential"
+  },
+  {
+    "original": "PrivateEquity",
+    "jumbled": "teuteqapiivry",
+    "jumbled_spaced": "T E U T E Q A P I I V R Y",
+    "clue": "Capital not listed on public exchanges"
+  },
+  {
+    "original": "Crowdfunding",
+    "jumbled": "grdoncdiuwfn",
+    "jumbled_spaced": "G R D O N C D I U W F N",
+    "clue": "Raising money from a large number of people, typically online"
+  },
+  {
+    "original": "AngelInvestor",
+    "jumbled": "tlngeniaerosv",
+    "jumbled_spaced": "T L N G E N I A E R O S V",
+    "clue": "An individual providing capital to startups"
+  },
+  {
+    "original": "SmartContract",
+    "jumbled": "tntracomrctas",
+    "jumbled_spaced": "T N T R A C O M R C T A S",
+    "clue": "Self-executing contract with terms in code"
+  },
+  {
+    "original": "Token",
+    "jumbled": "eonkt",
+    "jumbled_spaced": "E O N K T",
+    "clue": "A digital asset issued on a blockchain"
+  },
+  {
+    "original": "Stablecoin",
+    "jumbled": "eilcntsaob",
+    "jumbled_spaced": "E I L C N T S A O B",
+    "clue": "A cryptocurrency pegged to a stable asset"
+  },
+  {
+    "original": "Fiat",
+    "jumbled": "ifat",
+    "jumbled_spaced": "I F A T",
+    "clue": "Government-issued currency not backed by a commodity"
+  },
+  {
+    "original": "GrowthStock",
+    "jumbled": "wkocgtohrts",
+    "jumbled_spaced": "W K O C G T O H R T S",
+    "clue": "A stock expected to grow faster than the market average"
+  },
+  {
+    "original": "ValueStock",
+    "jumbled": "otcuesklav",
+    "jumbled_spaced": "O T C U E S K L A V",
+    "clue": "A stock trading below its intrinsic value"
+  },
+  {
+    "original": "BlueChip",
+    "jumbled": "cuhblpei",
+    "jumbled_spaced": "C U H B L P E I",
+    "clue": "A large, reputable, financially sound company"
+  },
+  {
+    "original": "PennyStock",
+    "jumbled": "ncepnotksy",
+    "jumbled_spaced": "N C E P N O T K S Y",
+    "clue": "Low-priced, high-risk stock"
+  },
+  {
+    "original": "DayTrading",
+    "jumbled": "aiyrgdnadt",
+    "jumbled_spaced": "A I Y R G D N A D T",
+    "clue": "Buying and selling financial instruments within the same day"
+  },
+  {
+    "original": "SwingTrading",
+    "jumbled": "sgntnagwidir",
+    "jumbled_spaced": "S G N T N A G W I D I R",
+    "clue": "Holding positions for several days or weeks"
+  },
+  {
+    "original": "PositionTrading",
+    "jumbled": "ntpntriioaoisgd",
+    "jumbled_spaced": "N T P N T R I I O A O I S G D",
+    "clue": "Holding investments for months or years"
+  },
+  {
+    "original": "TechnicalAnalysis",
+    "jumbled": "tainayaenichsclsl",
+    "jumbled_spaced": "T A I N A Y A E N I C H S C L S L",
+    "clue": "Using historical price and volume data to forecast prices"
+  },
+  {
+    "original": "FundamentalAnalysis",
+    "jumbled": "nenalifaysnsltduama",
+    "jumbled_spaced": "N E N A L I F A Y S N S L T D U A M A",
+    "clue": "Evaluating securities using financial statements and economic data"
+  },
+  {
+    "original": "StopOrder",
+    "jumbled": "sdtorrepo",
+    "jumbled_spaced": "S D T O R R E P O",
+    "clue": "An order to buy or sell once the price reaches a specified point"
+  },
+  {
+    "original": "TrailingStop",
+    "jumbled": "irtiposagtnl",
+    "jumbled_spaced": "I R T I P O S A G T N L",
+    "clue": "A stop order that moves with the market price"
+  },
+  {
+    "original": "BidPrice",
+    "jumbled": "rebcidip",
+    "jumbled_spaced": "R E B C I D I P",
+    "clue": "The highest price a buyer is willing to pay"
+  },
+  {
+    "original": "AskPrice",
+    "jumbled": "srcekipa",
+    "jumbled_spaced": "S R C E K I P A",
+    "clue": "The lowest price a seller will accept"
+  },
+  {
+    "original": "OrderBook",
+    "jumbled": "oberrokdo",
+    "jumbled_spaced": "O B E R R O K D O",
+    "clue": "A list of buy and sell orders for a security"
+  },
+  {
+    "original": "MarketMaker",
+    "jumbled": "kemkrrmaate",
+    "jumbled_spaced": "K E M K R R M A A T E",
+    "clue": "A firm that provides liquidity by being ready to buy and sell"
+  },
+  {
+    "original": "ShortSelling",
+    "jumbled": "tnsorigllseh",
+    "jumbled_spaced": "T N S O R I G L L S E H",
+    "clue": "Selling a borrowed security to buy it back later at a lower price"
+  },
+  {
+    "original": "MarginCall",
+    "jumbled": "glcmnlraia",
+    "jumbled_spaced": "G L C M N L R A I A",
+    "clue": "A broker's demand for more funds to cover losses"
+  },
+  {
+    "original": "Whale",
+    "jumbled": "awlhe",
+    "jumbled_spaced": "A W L H E",
+    "clue": "An individual or entity holding large amounts of crypto"
   }
 ]
