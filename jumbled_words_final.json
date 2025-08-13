@@ -1,0 +1,602 @@
+[
+  {
+    "original": "Hedgefund",
+    "jumbled": "eghuednfd",
+    "jumbled_spaced": "E G H U E D N F D",
+    "clue": "Pooled alternative investment fund"
+  },
+  {
+    "original": "Collateral",
+    "jumbled": "tllalocaer",
+    "jumbled_spaced": "T L L A L O C A E R",
+    "clue": "Asset pledged to secure a loan"
+  },
+  {
+    "original": "Rupee",
+    "jumbled": "peuer",
+    "jumbled_spaced": "P E U E R",
+    "clue": "Indian currency unit"
+  },
+  {
+    "original": "Execution",
+    "jumbled": "oxcuitene",
+    "jumbled_spaced": "O X C U I T E N E",
+    "clue": "Order fulfillment process"
+  },
+  {
+    "original": "Profit",
+    "jumbled": "oifprt",
+    "jumbled_spaced": "O I F P R T",
+    "clue": "Financial gain after costs"
+  },
+  {
+    "original": "Tariff",
+    "jumbled": "ftifar",
+    "jumbled_spaced": "F T I F A R",
+    "clue": "Tax on imports or exports"
+  },
+  {
+    "original": "Investor",
+    "jumbled": "snovteir",
+    "jumbled_spaced": "S N O V T E I R",
+    "clue": "Person who allocates capital"
+  },
+  {
+    "original": "Fund",
+    "jumbled": "nufd",
+    "jumbled_spaced": "N U F D",
+    "clue": "Pooled investment vehicle"
+  },
+  {
+    "original": "Wallet",
+    "jumbled": "eltalw",
+    "jumbled_spaced": "E L T A L W",
+    "clue": "Digital holder of money/assets"
+  },
+  {
+    "original": "Bonus",
+    "jumbled": "ousbn",
+    "jumbled_spaced": "O U S B N",
+    "clue": "Extra pay or additional shares"
+  },
+  {
+    "original": "Tax",
+    "jumbled": "axt",
+    "jumbled_spaced": "A X T",
+    "clue": "Compulsory levy by government"
+  },
+  {
+    "original": "Clearing",
+    "jumbled": "lancergi",
+    "jumbled_spaced": "L A N C E R G I",
+    "clue": "Post-trade matching and netting"
+  },
+  {
+    "original": "Arbitrage",
+    "jumbled": "raetgiarb",
+    "jumbled_spaced": "R A E T G I A R B",
+    "clue": "Profit from price differences"
+  },
+  {
+    "original": "Liquidity",
+    "jumbled": "dqitliiyu",
+    "jumbled_spaced": "D Q I T L I I Y U",
+    "clue": "Ease of buying/selling quickly"
+  },
+  {
+    "original": "Trust",
+    "jumbled": "rstut",
+    "jumbled_spaced": "R S T U T",
+    "clue": "Fiduciary legal arrangement"
+  },
+  {
+    "original": "Trader",
+    "jumbled": "aretdr",
+    "jumbled_spaced": "A R E T D R",
+    "clue": "Buys and sells securities"
+  },
+  {
+    "original": "Repo",
+    "jumbled": "epor",
+    "jumbled_spaced": "E P O R",
+    "clue": "Short-term repurchase agreement"
+  },
+  {
+    "original": "Underwrite",
+    "jumbled": "rtewrdnuie",
+    "jumbled_spaced": "R T E W R D N U I E",
+    "clue": "Guarantee issue or assume risk"
+  },
+  {
+    "original": "Bitcoin",
+    "jumbled": "iiontcb",
+    "jumbled_spaced": "I I O N T C B",
+    "clue": "Decentralized cryptocurrency"
+  },
+  {
+    "original": "Capital",
+    "jumbled": "tlaicap",
+    "jumbled_spaced": "T L A I C A P",
+    "clue": "Financial assets for investment"
+  },
+  {
+    "original": "Leverage",
+    "jumbled": "ereveagl",
+    "jumbled_spaced": "E R E V E A G L",
+    "clue": "Using borrowed money to invest"
+  },
+  {
+    "original": "Yield",
+    "jumbled": "lyide",
+    "jumbled_spaced": "L Y I D E",
+    "clue": "Income return on an investment"
+  },
+  {
+    "original": "Euro",
+    "jumbled": "reou",
+    "jumbled_spaced": "R E O U",
+    "clue": "Currency of the eurozone"
+  },
+  {
+    "original": "Stoploss",
+    "jumbled": "pslossot",
+    "jumbled_spaced": "P S L O S S O T",
+    "clue": "Pre-set exit price to limit loss"
+  },
+  {
+    "original": "Balance",
+    "jumbled": "acbneal",
+    "jumbled_spaced": "A C B N E A L",
+    "clue": "Net amount remaining"
+  },
+  {
+    "original": "Option",
+    "jumbled": "inoopt",
+    "jumbled_spaced": "I N O O P T",
+    "clue": "Right, not obligation, to trade"
+  },
+  {
+    "original": "Ledger",
+    "jumbled": "rgedel",
+    "jumbled_spaced": "R G E D E L",
+    "clue": "Record of financial transactions"
+  },
+  {
+    "original": "Demat",
+    "jumbled": "maedt",
+    "jumbled_spaced": "M A E D T",
+    "clue": "Dematerialized securities account"
+  },
+  {
+    "original": "Risk",
+    "jumbled": "sirk",
+    "jumbled_spaced": "S I R K",
+    "clue": "Chance of financial loss"
+  },
+  {
+    "original": "Hedge",
+    "jumbled": "dehge",
+    "jumbled_spaced": "D E H G E",
+    "clue": "Position to offset risk"
+  },
+  {
+    "original": "Solvency",
+    "jumbled": "oylnvsce",
+    "jumbled_spaced": "O Y L N V S C E",
+    "clue": "Ability to meet long-term debts"
+  },
+  {
+    "original": "Mortgage",
+    "jumbled": "atgmoerg",
+    "jumbled_spaced": "A T G M O E R G",
+    "clue": "Loan secured by property"
+  },
+  {
+    "original": "Payout",
+    "jumbled": "oaptyu",
+    "jumbled_spaced": "O A P T Y U",
+    "clue": "Distribution of cash or shares"
+  },
+  {
+    "original": "Volatility",
+    "jumbled": "ltyivoitla",
+    "jumbled_spaced": "L T Y I V O I T L A",
+    "clue": "Degree of price fluctuation"
+  },
+  {
+    "original": "Revenue",
+    "jumbled": "veeurne",
+    "jumbled_spaced": "V E E U R N E",
+    "clue": "Income from operations"
+  },
+  {
+    "original": "Budget",
+    "jumbled": "tugdbe",
+    "jumbled_spaced": "T U G D B E",
+    "clue": "Planned income and expenses"
+  },
+  {
+    "original": "Order",
+    "jumbled": "rodre",
+    "jumbled_spaced": "R O D R E",
+    "clue": "Instruction to buy or sell"
+  },
+  {
+    "original": "Spread",
+    "jumbled": "edpsra",
+    "jumbled_spaced": "E D P S R A",
+    "clue": "Bid-ask gap or price difference"
+  },
+  {
+    "original": "Pension",
+    "jumbled": "opninse",
+    "jumbled_spaced": "O P N I N S E",
+    "clue": "Retirement income arrangement"
+  },
+  {
+    "original": "Insurance",
+    "jumbled": "aesuncirn",
+    "jumbled_spaced": "A E S U N C I R N",
+    "clue": "Contract to transfer risk"
+  },
+  {
+    "original": "Yen",
+    "jumbled": "eny",
+    "jumbled_spaced": "E N Y",
+    "clue": "Japanese currency unit"
+  },
+  {
+    "original": "Mutual",
+    "jumbled": "taumlu",
+    "jumbled_spaced": "T A U M L U",
+    "clue": "As in mutual fund; pooled"
+  },
+  {
+    "original": "Loss",
+    "jumbled": "slso",
+    "jumbled_spaced": "S L S O",
+    "clue": "Negative financial result"
+  },
+  {
+    "original": "Buyback",
+    "jumbled": "yuabckb",
+    "jumbled_spaced": "Y U A B C K B",
+    "clue": "Company repurchases its shares"
+  },
+  {
+    "original": "Benchmark",
+    "jumbled": "ekrbncham",
+    "jumbled_spaced": "E K R B N C H A M",
+    "clue": "Standard for performance comparison"
+  },
+  {
+    "original": "Alpha",
+    "jumbled": "lhapa",
+    "jumbled_spaced": "L H A P A",
+    "clue": "Excess return over benchmark"
+  },
+  {
+    "original": "Dollar",
+    "jumbled": "oadllr",
+    "jumbled_spaced": "O A D L L R",
+    "clue": "US currency unit (also others)"
+  },
+  {
+    "original": "Portfolio",
+    "jumbled": "ooiprlfto",
+    "jumbled_spaced": "O O I P R L F T O",
+    "clue": "Collection of investments"
+  },
+  {
+    "original": "Limit",
+    "jumbled": "ilmti",
+    "jumbled_spaced": "I L M T I",
+    "clue": "Order with max/min price"
+  },
+  {
+    "original": "Short",
+    "jumbled": "hrsot",
+    "jumbled_spaced": "H R S O T",
+    "clue": "Betting on a price decline"
+  },
+  {
+    "original": "Loan",
+    "jumbled": "olan",
+    "jumbled_spaced": "O L A N",
+    "clue": "Borrowed sum to be repaid"
+  },
+  {
+    "original": "Settlement",
+    "jumbled": "enmeelttst",
+    "jumbled_spaced": "E N M E E L T T S T",
+    "clue": "Final transfer of cash/securities"
+  },
+  {
+    "original": "Annuity",
+    "jumbled": "tuyanni",
+    "jumbled_spaced": "T U Y A N N I",
+    "clue": "Stream of scheduled payments"
+  },
+  {
+    "original": "Currency",
+    "jumbled": "ecnrcury",
+    "jumbled_spaced": "E C N R C U R Y",
+    "clue": "System of money in use"
+  },
+  {
+    "original": "Riskfree",
+    "jumbled": "krirsfee",
+    "jumbled_spaced": "K R I R S F E E",
+    "clue": "Theoretical zero-risk return"
+  },
+  {
+    "original": "Index",
+    "jumbled": "exnid",
+    "jumbled_spaced": "E X N I D",
+    "clue": "Basket tracking performance"
+  },
+  {
+    "original": "Rights",
+    "jumbled": "ithgrs",
+    "jumbled_spaced": "I T H G R S",
+    "clue": "Entitlement to buy new shares"
+  },
+  {
+    "original": "Deflation",
+    "jumbled": "nfietolad",
+    "jumbled_spaced": "N F I E T O L A D",
+    "clue": "General fall in price levels"
+  },
+  {
+    "original": "Beta",
+    "jumbled": "tabe",
+    "jumbled_spaced": "T A B E",
+    "clue": "Sensitivity to market moves"
+  },
+  {
+    "original": "Default",
+    "jumbled": "aluetdf",
+    "jumbled_spaced": "A L U E T D F",
+    "clue": "Failure to meet debt obligations"
+  },
+  {
+    "original": "Boom",
+    "jumbled": "obmo",
+    "jumbled_spaced": "O B M O",
+    "clue": "Period of rapid expansion"
+  },
+  {
+    "original": "Exchange",
+    "jumbled": "gaxehnce",
+    "jumbled_spaced": "G A X E H N C E",
+    "clue": "Marketplace for securities"
+  },
+  {
+    "original": "Stock",
+    "jumbled": "ckots",
+    "jumbled_spaced": "C K O T S",
+    "clue": "Equity share in a company"
+  },
+  {
+    "original": "Premium",
+    "jumbled": "umeipmr",
+    "jumbled_spaced": "U M E I P M R",
+    "clue": "Price above par; insurance fee"
+  },
+  {
+    "original": "Expense",
+    "jumbled": "pxeenes",
+    "jumbled_spaced": "P X E E N E S",
+    "clue": "Cost incurred in operations"
+  },
+  {
+    "original": "Dividend",
+    "jumbled": "vdeididn",
+    "jumbled_spaced": "V D E I D I D N",
+    "clue": "Distribution of profits to holders"
+  },
+  {
+    "original": "Forex",
+    "jumbled": "oxfre",
+    "jumbled_spaced": "O X F R E",
+    "clue": "Foreign exchange market"
+  },
+  {
+    "original": "Recession",
+    "jumbled": "isoeensrc",
+    "jumbled_spaced": "I S O E E N S R C",
+    "clue": "Broad economic downturn"
+  },
+  {
+    "original": "Bond",
+    "jumbled": "nbod",
+    "jumbled_spaced": "N B O D",
+    "clue": "Debt security with coupons/maturity"
+  },
+  {
+    "original": "Analyst",
+    "jumbled": "yslanat",
+    "jumbled_spaced": "Y S L A N A T",
+    "clue": "Researches and values securities"
+  },
+  {
+    "original": "Credit",
+    "jumbled": "ectird",
+    "jumbled_spaced": "E C T I R D",
+    "clue": "Ability to borrow; trust to pay"
+  },
+  {
+    "original": "Debt",
+    "jumbled": "etbd",
+    "jumbled_spaced": "E T B D",
+    "clue": "Money owed to a lender"
+  },
+  {
+    "original": "Bust",
+    "jumbled": "sbtu",
+    "jumbled_spaced": "S B T U",
+    "clue": "Sharp collapse or downturn"
+  },
+  {
+    "original": "Option",
+    "jumbled": "tnopoi",
+    "jumbled_spaced": "T N O P O I",
+    "clue": "Derivative right to buy/sell"
+  },
+  {
+    "original": "Buyback",
+    "jumbled": "abuybkc",
+    "jumbled_spaced": "A B U Y B K C",
+    "clue": "Repurchase of company shares"
+  },
+  {
+    "original": "Derivative",
+    "jumbled": "irtdvveeai",
+    "jumbled_spaced": "I R T D V V E E A I",
+    "clue": "Contract derived from an underlying"
+  },
+  {
+    "original": "IPO",
+    "jumbled": "poi",
+    "jumbled_spaced": "P O I",
+    "clue": "Initial public offering"
+  },
+  {
+    "original": "Duty",
+    "jumbled": "ydtu",
+    "jumbled_spaced": "Y D T U",
+    "clue": "Tax imposed on goods"
+  },
+  {
+    "original": "Asset",
+    "jumbled": "setas",
+    "jumbled_spaced": "S E T A S",
+    "clue": "Resource with economic value"
+  },
+  {
+    "original": "Deposit",
+    "jumbled": "edtisop",
+    "jumbled_spaced": "E D T I S O P",
+    "clue": "Money placed into an account"
+  },
+  {
+    "original": "Withdrawal",
+    "jumbled": "halwwrdait",
+    "jumbled_spaced": "H A L W W R D A I T",
+    "clue": "Taking money out of an account"
+  },
+  {
+    "original": "Valuation",
+    "jumbled": "tiouanvla",
+    "jumbled_spaced": "T I O U A N V L A",
+    "clue": "Estimating asset or firm value"
+  },
+  {
+    "original": "Risk",
+    "jumbled": "iksr",
+    "jumbled_spaced": "I K S R",
+    "clue": "Probability of adverse outcome"
+  },
+  {
+    "original": "Interchange",
+    "jumbled": "nhregteacin",
+    "jumbled_spaced": "N H R E G T E A C I N",
+    "clue": "Card-network fee between banks"
+  },
+  {
+    "original": "Expense",
+    "jumbled": "xpsenee",
+    "jumbled_spaced": "X P S E N E E",
+    "clue": "Operational cost or outlay"
+  },
+  {
+    "original": "Yield",
+    "jumbled": "leiyd",
+    "jumbled_spaced": "L E I Y D",
+    "clue": "Income as a percentage"
+  },
+  {
+    "original": "Currency",
+    "jumbled": "ncecryur",
+    "jumbled_spaced": "N C E C R Y U R",
+    "clue": "Medium of exchange in a country"
+  },
+  {
+    "original": "Fund",
+    "jumbled": "dnfu",
+    "jumbled_spaced": "D N F U",
+    "clue": "Pool of investor money"
+  },
+  {
+    "original": "Krasi",
+    "jumbled": "rksai",
+    "jumbled_spaced": "R K S A I",
+    "clue": "Placeholder term for practice"
+  },
+  {
+    "original": "Bonus",
+    "jumbled": "snbou",
+    "jumbled_spaced": "S N B O U",
+    "clue": "Extra compensation or reward"
+  },
+  {
+    "original": "Duty",
+    "jumbled": "tydu",
+    "jumbled_spaced": "T Y D U",
+    "clue": "Levy charged on goods/services"
+  },
+  {
+    "original": "Clearing",
+    "jumbled": "nalirecg",
+    "jumbled_spaced": "N A L I R E C G",
+    "clue": "Post-trade reconciliation step"
+  },
+  {
+    "original": "Analyst",
+    "jumbled": "lantasy",
+    "jumbled_spaced": "L A N T A S Y",
+    "clue": "Professional evaluating companies"
+  },
+  {
+    "original": "Liquidity",
+    "jumbled": "yqidluiit",
+    "jumbled_spaced": "Y Q I D L U I I T",
+    "clue": "Convertibility to cash quickly"
+  },
+  {
+    "original": "Rights",
+    "jumbled": "tgrish",
+    "jumbled_spaced": "T G R I S H",
+    "clue": "Shareholder entitlement to subscribe"
+  },
+  {
+    "original": "Premium",
+    "jumbled": "merpuim",
+    "jumbled_spaced": "M E R P U I M",
+    "clue": "Extra amount above base value"
+  },
+  {
+    "original": "Bond",
+    "jumbled": "nbod",
+    "jumbled_spaced": "N B O D",
+    "clue": "Fixed-income debt instrument"
+  },
+  {
+    "original": "Annuity",
+    "jumbled": "intuyna",
+    "jumbled_spaced": "I N T U Y N A",
+    "clue": "Contract paying periodic income"
+  },
+  {
+    "original": "Predict",
+    "jumbled": "dcirtpe",
+    "jumbled_spaced": "D C I R T P E",
+    "clue": "Estimate a future outcome"
+  },
+  {
+    "original": "Budget",
+    "jumbled": "gutbde",
+    "jumbled_spaced": "G U T B D E",
+    "clue": "Spending plan over a period"
+  }
+]
