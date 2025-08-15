@@ -180,15 +180,17 @@
     let words = [];
     let current = 0;
     let score = 0;
-    let answered = [];
-    let checked = [];
+  let answered = [];
+  let checked = [];
+  let jumbledCache = [];
 
   async function loadWords() {
       try {
     const res = await fetch('jumbled_words_final.json');
         words = await res.json();
-        answered = Array(words.length).fill("");
-        checked = Array(words.length).fill(false);
+  answered = Array(words.length).fill("");
+  checked = Array(words.length).fill(false);
+  jumbledCache = Array(words.length).fill("");
         startGame();
       } catch (e) {
         document.getElementById('jumbledWord').textContent = 'Failed to load words.';
@@ -201,6 +203,10 @@
       document.getElementById('scoreMsg').textContent = '';
       document.getElementById('answerInput').style.display = '';
       document.getElementById('checkBtn').style.display = '';
+      // Pre-generate a random jumbled (spaced & uppercase) for each word for this session
+      for (let i = 0; i < words.length; i++) {
+        jumbledCache[i] = makeJumbledDisplay(words[i]);
+      }
       showWord();
     }
 
@@ -210,8 +216,8 @@
         return;
       }
       updateProgress();
-      const word = words[current];
-  const displayText = word.jumbled_spaced || word.jumbled || '';
+  const word = words[current];
+  const displayText = jumbledCache[current] || makeJumbledDisplay(word);
   document.getElementById('jumbledWord').textContent = displayText;
   document.getElementById('clue').textContent = word.clue ? `Clue: ${word.clue}` : '';
       const input = document.getElementById('answerInput');
@@ -317,6 +323,32 @@
         box.style.fontSize = fontPx + 'px';
         tries++;
       }
+    }
+
+    // Utilities: shuffle and format jumbled text
+    function shuffleArray(arr) {
+      for (let i = arr.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
+      }
+      return arr;
+    }
+
+    function makeJumbledDisplay(wordObj) {
+      const original = (wordObj.original || wordObj.jumbled || '').toString();
+      const clean = original.replace(/\s+/g, '');
+      if (!clean) return '';
+      let arr = clean.split('');
+      const targetLower = clean.toLowerCase();
+      let attempts = 0;
+      let shuffled = arr.slice();
+      // Try to ensure different order from original when possible
+      do {
+        shuffled = shuffleArray(arr.slice());
+        attempts++;
+        if (attempts > 24) break; // give up after many tries
+      } while (shuffled.join('').toLowerCase() === targetLower && arr.length > 3);
+      return shuffled.join(' ').toUpperCase();
     }
 
     document.getElementById('checkBtn').addEventListener('click', checkAnswer);
